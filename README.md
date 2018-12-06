@@ -2,7 +2,7 @@
 
 A simple user authentication with node express and mongodb . 
 
-**libraries used  **
+**libraries used**
 
 `bcrypt`for hashing the password 
 
