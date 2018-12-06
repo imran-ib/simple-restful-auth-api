@@ -50,7 +50,7 @@ If User is authenticated it will give you followings.
 
 `http:localhost:3002/api/user/login`
 
-After checking the password it will creates a token and save is as cookie 
+After checking the password it will create a token and save is as cookie 
 
 ## 	Logout 	
 
