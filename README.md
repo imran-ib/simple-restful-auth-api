@@ -40,9 +40,9 @@ Takes `req.body` and saves it to database
 
 If User is authenticated it will give you followings.
 
-`isAdmin ` :  Boolean 
-`isAuth `: Boolean 
-``firstName`: String
+`isAdmin` :  Boolean 
+`isAuth`: Boolean 
+`firstName`: String
 `lastName` : String
 `fullName`  : String
 
